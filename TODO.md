@@ -1,0 +1,4 @@
+-   [x] Create approvedPerdin method in PerdinController
+-   [x] Add route for approved perdin list
+-   [x] Create approved.blade.php view
+-   [x] Update sidebar link for approved perdin
