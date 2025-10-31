@@ -13,7 +13,7 @@
             <div class="row gy-4">
                 <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
                     <h1>Elegant and creative solutions</h1>
-                    <p>PT. JAYA NIAGA SEMESTA is a profesional company formedin 2016. Its headquarters in the city
+                    <p>PT. JAYA NIAGA SEMEST is a profesional company formedin 2016. Its headquarters in the city
                         of Bandung in West Java, Indonesia. Our focuses is to develop products and services in 3
                         segments that entrusted by our partners, that are Security, Tubing and insulation tape
                         products for industry, as well as IT products and services.</p>
